@@ -1,0 +1,29 @@
+{
+  "repo": "aurora-orbit-1iophx2",
+  "title_en": "Flow Field — Aurora Orbit",
+  "title_de": "Aurora Orbit — Strömungsfeld",
+  "desc_en": "A living flow-field painter: 2009 particles trace vector fields in real time. spiral mode, seeded randomness and PNG export.",
+  "desc_de": "Ein lebendiger Strömungsfeld-Maler: 2009 Partikel zeichnen Vektorfelder in Echtzeit. spiral-Modus, reproduzierbarer Seed und PNG-Export.",
+  "stack": "html/css/js + svg",
+  "tags": [
+    "art",
+    "music",
+    "interactive"
+  ],
+  "features_en": [
+    "Real-time particle flow-field rendering on canvas",
+    "Multiple field modes: flow, vortex, spiral, noise",
+    "Seeded generation — every artwork is reproducible",
+    "Hand-tuned color palettes with trail fade",
+    "One-click PNG export",
+    "English/German interface"
+  ],
+  "features_de": [
+    "Echtzeit-Partikel-Rendering von Strömungsfeldern",
+    "Mehrere Feldmodi: Strömung, Wirbel, Spirale, Rauschen",
+    "Gesperrte Generierung — jedes Bild ist reproduzierbar",
+    "Handgestimmte Farbpaletten mit Nachleuchten",
+    "PNG-Export per Klick",
+    "Englische/deutsche Oberfläche"
+  ]
+}
